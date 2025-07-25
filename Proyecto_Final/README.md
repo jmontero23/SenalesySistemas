@@ -7,7 +7,7 @@ El notebook explora los principios fundamentales del procesamiento de señales e
 
 ### Contenido del Notebook
 
-[cite_start]El cuaderno está estructurado en los siguientes conceptos clave:
+El cuaderno está estructurado en los siguientes conceptos clave:
 
 1.  **Transformada de Fourier (FT, DFT, FFT):** Análisis espectral de señales.
 2.  **Filtrado Digital (FIR/IIR):** Diseño y aplicación de filtros para limpiar señales.
